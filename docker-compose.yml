@@ -4,4 +4,4 @@ services:
   kuard:
     image: gcr.io/kuar-demo/kuard-amd64:1
     ports:
-    - "8009:8080"
+    - "8006:8080"
